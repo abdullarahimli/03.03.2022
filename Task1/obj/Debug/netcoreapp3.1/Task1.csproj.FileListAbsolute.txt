@@ -1,0 +1,14 @@
+C:\Users\Abdulla Rahimli\Desktop\Code Academy\Programming 24.01.2022 -\BackEnd\My Code Projects\02.03.2022\Task1\bin\Debug\netcoreapp3.1\Task1.exe
+C:\Users\Abdulla Rahimli\Desktop\Code Academy\Programming 24.01.2022 -\BackEnd\My Code Projects\02.03.2022\Task1\bin\Debug\netcoreapp3.1\Task1.deps.json
+C:\Users\Abdulla Rahimli\Desktop\Code Academy\Programming 24.01.2022 -\BackEnd\My Code Projects\02.03.2022\Task1\bin\Debug\netcoreapp3.1\Task1.runtimeconfig.json
+C:\Users\Abdulla Rahimli\Desktop\Code Academy\Programming 24.01.2022 -\BackEnd\My Code Projects\02.03.2022\Task1\bin\Debug\netcoreapp3.1\Task1.runtimeconfig.dev.json
+C:\Users\Abdulla Rahimli\Desktop\Code Academy\Programming 24.01.2022 -\BackEnd\My Code Projects\02.03.2022\Task1\bin\Debug\netcoreapp3.1\Task1.dll
+C:\Users\Abdulla Rahimli\Desktop\Code Academy\Programming 24.01.2022 -\BackEnd\My Code Projects\02.03.2022\Task1\bin\Debug\netcoreapp3.1\Task1.pdb
+C:\Users\Abdulla Rahimli\Desktop\Code Academy\Programming 24.01.2022 -\BackEnd\My Code Projects\02.03.2022\Task1\obj\Debug\netcoreapp3.1\Task1.csproj.AssemblyReference.cache
+C:\Users\Abdulla Rahimli\Desktop\Code Academy\Programming 24.01.2022 -\BackEnd\My Code Projects\02.03.2022\Task1\obj\Debug\netcoreapp3.1\Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdulla Rahimli\Desktop\Code Academy\Programming 24.01.2022 -\BackEnd\My Code Projects\02.03.2022\Task1\obj\Debug\netcoreapp3.1\Task1.AssemblyInfoInputs.cache
+C:\Users\Abdulla Rahimli\Desktop\Code Academy\Programming 24.01.2022 -\BackEnd\My Code Projects\02.03.2022\Task1\obj\Debug\netcoreapp3.1\Task1.AssemblyInfo.cs
+C:\Users\Abdulla Rahimli\Desktop\Code Academy\Programming 24.01.2022 -\BackEnd\My Code Projects\02.03.2022\Task1\obj\Debug\netcoreapp3.1\Task1.csproj.CoreCompileInputs.cache
+C:\Users\Abdulla Rahimli\Desktop\Code Academy\Programming 24.01.2022 -\BackEnd\My Code Projects\02.03.2022\Task1\obj\Debug\netcoreapp3.1\Task1.dll
+C:\Users\Abdulla Rahimli\Desktop\Code Academy\Programming 24.01.2022 -\BackEnd\My Code Projects\02.03.2022\Task1\obj\Debug\netcoreapp3.1\Task1.pdb
+C:\Users\Abdulla Rahimli\Desktop\Code Academy\Programming 24.01.2022 -\BackEnd\My Code Projects\02.03.2022\Task1\obj\Debug\netcoreapp3.1\Task1.genruntimeconfig.cache
